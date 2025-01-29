@@ -43,9 +43,14 @@ The implementation focuses on creating realistic real-time shadows using the sha
 
 The core algorithm includes efficient shadow volume generation by identifying silhouette edges and extruding them away from the light source. Camera movement is handled through a robust control system supporting six degrees of freedom (forward, backward, left, right, rotation, and zoom), implemented using GLFW keyboard and mouse input handling. Core Algorithms and Implementation
 
-![image](https://github.com/user-attachments/assets/b27bb144-52fe-413b-a8f0-a01df21aa0b0)
+![29f71d01f887f3770adba6c42b40abe](https://github.com/user-attachments/assets/47f21c4b-fb47-4c11-95cb-8889f48ad8bc)
+![c80b03623337f26dddb36877fd45451](https://github.com/user-attachments/assets/dc636142-be80-44b1-9cb8-3635416f4447)
+![fdb6ee80ab6463eafdc4e3669007e42](https://github.com/user-attachments/assets/fe98233a-b0f3-435d-b386-2f0f0eb67aba)
+![e5eab47a73dfe76755524be4203ce89](https://github.com/user-attachments/assets/80d302fa-f4d1-4dc2-86fc-3a03d11afce4)
+![86a2a17914953da74d1268f61f96dc2](https://github.com/user-attachments/assets/632526c9-166f-4777-8b85-3294d8a8b61e)
 
-![image](https://github.com/user-attachments/assets/6b743c29-297c-431e-9a14-52eb2701b3bd)
 
-![image](https://github.com/user-attachments/assets/252411eb-5a3a-4066-aee3-d765d9bf2e4f)
+
+
+
 
